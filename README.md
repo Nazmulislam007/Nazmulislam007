@@ -2,16 +2,7 @@
 ### Hi there 👋, I am Nazmul
 #### I am a Web Developer
 
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: NODE JS / REACT / JS / HTML / CSS/ FIREBASE/ MONGODB
-
-- 🔭 I’m currently working on learing. 
-- 🌱 I’m currently learning JavaScript. 
-- 👯 I’m looking to collaborate on github. 
-- 💬 Ask me about anything to know. 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Nazmulislam007)  
 
